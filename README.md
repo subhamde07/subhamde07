@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Subham De</h1>
 <h3 align="center">A passionate full-stack developer from India.</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/78950020/203273353-7bdeecf2-8e33-41fe-b0c4-a83470bea6c9.png>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhamde07&label=Profile%20views&color=0e75b6&style=flat" alt="subhamde07" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
