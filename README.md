@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/subham-de-166291208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subham-de-166291208" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100077257796096&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100077257796096&mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100077257796096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100077257796096" height="30" width="40" /></a>
 <a href="https://instagram.com/s_ub_ha_m_d_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_ub_ha_m_d_e" height="30" width="40" /></a>
 </p>
 
