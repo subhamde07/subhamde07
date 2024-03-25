@@ -12,18 +12,9 @@
 
 - 📫 How to reach me **subhamde630@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/subham-de-166291208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subham-de-166291208" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100077257796096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100077257796096" height="30" width="40" /></a>
-<a href="https://instagram.com/s_ub_ha_m_d_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_ub_ha_m_d_e" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/subhamde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="subhamde" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/subhamde568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subhamde568" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/subhamde568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhamde568" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@subhamde568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@subhamde568" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/subhamde07/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subhamde07/profile" height="30" width="40" /></a>
-<a href="https://discord.gg/RedJokeR_0712#6402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6402" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/profile.php?id=100077257796096) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/s_ub_ha_m_d_e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/subham-de)
 
 ## Languages and Tools:
 
@@ -31,11 +22,9 @@
 
  <img width="100%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamde07&langs_count=10&layout=compact&theme=dracula" >
 
-
 ## Github Stats:
 
 <img width="100%" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhamde07&theme=dracula" />
-
 
 ## Contributions:
 
@@ -43,6 +32,16 @@
   <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=subhamde07&count_private=true&show_icons=true&theme=dracula">
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=subhamde07&theme=dracula" />
 </div>
+
+<h2 align="left">🐍 Watch my contribution graph get eaten by a snake</h2>
+
+###
+
+<br clear="both">
+
+<img src="https://github.com/ayussubhamde07hsaha1018/subhamde07/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/subhamde07"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="subhamde07" /></a></p><br><br>
