@@ -53,8 +53,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=subhamde07&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-
-
+###
 
 <h2 align="left">🐍 Watch my contribution graph get eaten by a snake</h2>
 
@@ -62,7 +61,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/subhamde07/subhamde07/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/subhamde07/subhamde07/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
